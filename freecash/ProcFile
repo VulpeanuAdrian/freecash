@@ -1,0 +1,1 @@
+web gunicorn freecash.wsgi:application --log-file -
